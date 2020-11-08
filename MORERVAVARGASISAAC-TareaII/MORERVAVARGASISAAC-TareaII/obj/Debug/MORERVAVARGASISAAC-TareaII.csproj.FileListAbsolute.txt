@@ -1,0 +1,6 @@
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\obj\Debug\MORERVAVARGASISAAC-TareaII.csprojResolveAssemblyReference.cache
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\bin\Debug\MORERVAVARGASISAAC-TareaII.exe.config
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\bin\Debug\MORERVAVARGASISAAC-TareaII.exe
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\bin\Debug\MORERVAVARGASISAAC-TareaII.pdb
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\obj\Debug\MORERVAVARGASISAAC-TareaII.exe
+C:\Users\Alcatraz\Documents\SharpDevelop Projects\MORERVAVARGASISAAC-TareaII\MORERVAVARGASISAAC-TareaII\obj\Debug\MORERVAVARGASISAAC-TareaII.pdb

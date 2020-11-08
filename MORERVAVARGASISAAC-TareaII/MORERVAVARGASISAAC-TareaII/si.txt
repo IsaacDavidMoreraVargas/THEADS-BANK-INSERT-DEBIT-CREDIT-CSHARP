@@ -1,0 +1,7 @@
+Ventanilla; Credito; 100
+
+Cajero; Debito; 50
+
+Ventanilla; Credito; 200.5
+
+Cajero; Debito; 100
